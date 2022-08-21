@@ -11,6 +11,7 @@ const reduceMovies = reduceProperties("theater_id", {
   title: ["movies", null, "title"],
   runtime_in_minutes: ["movies", null, "runtime_in_minutes"],
   rating: ["movies", null, "rating"],
+  movie_id: ["movies", null, "movie_id"]
 });
 
 function list(){
