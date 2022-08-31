@@ -35,7 +35,13 @@ This is a description page with a list of reviews and theaters where you can vie
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/57878265/187742533-c5ad8490-e582-4909-98df-e2ab3264549a.png)
 
+## Technology 
+### Built with:
 
+- Express
+- Node.js
+- PostgreSQL
+- Knex
 
 
 
