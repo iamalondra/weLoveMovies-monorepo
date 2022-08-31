@@ -15,7 +15,7 @@ This app will get a list of movies, reviews, theaters, or critics. This was mean
 - "/theaters"
 - "/:reviewId"
 
-## Home Page/Find A Movie
+## Home Page/Find A Movie:
 Clicking on the movie takes you to it's description page with a list of reviews and theaters where you can view that movie.
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/57878265/187742605-4977a678-ff30-4979-b4d2-b50c327b363e.png)
@@ -30,7 +30,7 @@ This page allows you to view a list of movies that any theater is showing. Click
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/57878265/187742563-59ad0b75-3b41-4e4c-9ef7-af4417ab6c45.png)
 
-## Movie Reviews
+## Movie Reviews:
 This is a description page with a list of reviews and theaters where you can view a movie.
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/57878265/187742533-c5ad8490-e582-4909-98df-e2ab3264549a.png)
