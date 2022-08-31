@@ -5,7 +5,7 @@ This app will get a list of movies, reviews, theaters, or critics. This was mean
 
 [Live Link](https://we-love-movies--client.herokuapp.com)  
 
-[API](radiant-fjord-48175.herokuapp.com)
+[API](https://radiant-fjord-48175.herokuapp.com)
 
 ### API Endpoints
 - "/movies" => accepts is_showing as a query parameter
