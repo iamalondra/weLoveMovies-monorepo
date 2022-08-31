@@ -3,7 +3,7 @@
 ## Description
 This app will get a list of movies, reviews, theaters, or critics. This was meant to excercise my ability to set up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews.
 
-[Live Link](https://radiant-fjord-48175.herokuapp.com)  
+[Live Link](we-love-movies--client.herokuapp.com)  
 
 ### API Endpoints
 - "/movies" => accepts is_showing as a query parameter
